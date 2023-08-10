@@ -1,0 +1,17 @@
+{
+  "name": "soaltambahannestedcondition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start-1": "tsc && node dist/1_nestedIf-ez.js",
+    "start-soalMinecraft": "tsc && node dist/soalMinecraftKakAwall.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
